@@ -23,4 +23,4 @@ The main requirements are listed below:
   
 * Five-fole cross-validation.py
 
-    The  code is the 5-fold cross-validation of thw model.
+    The  code is the 5-fold cross-validation of the model.
